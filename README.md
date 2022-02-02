@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm geminimew</h1>
 <h3 align="center">A student from China</h3>
 
