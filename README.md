@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm geminimew</h1>
 <h3 align="center">A student from China</h3>
 
-- 🌱 I’m currently learning **EE&EE-self-learning**
+- 🌱 I’m currently learning **CS&EE-self-learning**
 
 - 📫 How to reach me **lider7214@163.com**
 
