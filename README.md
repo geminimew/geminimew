@@ -2,8 +2,9 @@
 <h3 align="center">A student from China</h3>
 
 - 🌱 I’m currently learning **CS&EE-self-learning**
-
 - 📫 How to reach me: **lider7214@163.com**
+
+![](https://visitor-badge.laobi.icu/badge?page_id=OE-Heart.visitor-badge)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
