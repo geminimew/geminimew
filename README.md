@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **CS&EE-self-learning**
 
-- 📫 How to reach me **lider7214@163.com**
+- 📫 How to reach me: **lider7214@163.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
