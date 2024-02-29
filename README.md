@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm lee de</h1>
-<h3 align="center">A student from China</h3>
+
+A student from China
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=geminimew.visitor-badge)
 
